@@ -169,7 +169,7 @@ ymaps.ready(function () {
 		iconContentLayout: MyIconContentLayout
 	});
 
-	Placemark_8 = new ymaps.Placemark([55.52998057818815, 37.443065952032335], {
+	Placemark_8 = new ymaps.Placemark([55.529950216915395, 37.443119607413834], {
 		hintContent: 'посёлок Воскресенское 27',
 		balloonContent: `<div style="display: flex; border-radius: 5px; font-family: 'GraphikLCG'; font-size: 20px; line-height: 150%;	letter-spacing: -0.02em; color: #000000;"><img src="img/icons/balloon.png" alt=""><div style="padding: 6px 3px 0 10px;">посёлок Воскресенское 27</div></div>`,
 		iconContent: ''
@@ -189,7 +189,7 @@ ymaps.ready(function () {
 		// Макет содержимого.
 		iconContentLayout: MyIconContentLayout
 	});
-	Placemark_9 = new ymaps.Placemark([55.493469409974956, 37.54698438279193], {
+	Placemark_9 = new ymaps.Placemark([55.477669812777265, 37.41808923512706], {
 		hintContent: 'деревня Новинки 7',
 		balloonContent: `<div style="display: flex; border-radius: 5px; font-family: 'GraphikLCG'; font-size: 20px; line-height: 150%;	letter-spacing: -0.02em; color: #000000;"><img src="img/icons/balloon.png" alt=""><div style="padding: 6px 3px 0 10px;">деревня Новинки 7</div></div>`,
 		iconContent: ''
