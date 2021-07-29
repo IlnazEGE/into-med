@@ -1015,6 +1015,17 @@ body.lock {
 	display: -ms-flexbox;
 	display: flex;
 }
+.left-top-services__item:nth-child(2n) {
+	top: 10px;
+}
+@media (max-width: 991.98px) {
+	.left-top-services__item:nth-child(2n) {
+		top: 0;
+	}
+}
+.left-top-services__item:nth-child(2) {
+	top: 0;
+}
 @media (max-width: 1152px) {
 	.left-top-services__item {
 		padding: 0 20px 0 43px;
