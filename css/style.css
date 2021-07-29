@@ -1016,7 +1016,7 @@ body.lock {
 	display: flex;
 }
 .left-top-services__item:nth-child(2n) {
-	top: 10px;
+	top: 13px;
 }
 @media (max-width: 991.98px) {
 	.left-top-services__item:nth-child(2n) {
